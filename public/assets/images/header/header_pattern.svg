@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="362" viewBox="0 0 1400 362">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="SVGID" width="1400" height="362" transform="translate(1094.459 2513.444)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.491" cy="0.496" r="0.487" gradientTransform="matrix(0.707, 0.707, -0.707, 0.707, 0.5, -0.2)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#157bc0"/>
+      <stop offset="0.012" stop-color="#1874ba"/>
+      <stop offset="0.056" stop-color="#2364ad"/>
+      <stop offset="0.105" stop-color="#295ba5"/>
+      <stop offset="0.169" stop-color="#2b58a3"/>
+      <stop offset="0.231" stop-color="#274c91"/>
+      <stop offset="0.356" stop-color="#213a74"/>
+      <stop offset="0.489" stop-color="#1c2b5d"/>
+      <stop offset="0.632" stop-color="#18214c"/>
+      <stop offset="0.791" stop-color="#161a43"/>
+      <stop offset="1" stop-color="#161940"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_12177" data-name="Grupo 12177" transform="translate(-1094.459 -2513.444)">
+    <g id="Grupo_10972" data-name="Grupo 10972" clip-path="url(#clip-path)">
+      <circle id="Elipse_546" data-name="Elipse 546" cx="341.121" cy="341.121" r="341.121" transform="translate(1653.163 2694.444) rotate(-45)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>
