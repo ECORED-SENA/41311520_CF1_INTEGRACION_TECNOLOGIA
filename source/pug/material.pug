@@ -35,8 +35,9 @@ html(lang="es")
                             .card-body
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
                                     +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Cumplimiento de requisitos de una Empresa Asociativa de Trabajo', '#tema-1')
-                                    +navTemaItem('2', 'Documentos requeridos para la constitución de una Empresa Asociativa de Trabajo', '#tema-2')
+                                    +navTemaItem('1', '¿Qué es la identidad digital?', '#tema-1')
+                                    +navTemaItem('2', 'Reputación online', '#tema-2')
+                                    +navTemaItem('3', 'Seguridad digital', '#tema-3')
                                     +navTemaItem('glosario', 'Glosario', '#glosario')
                                     +navTemaItem('complementario', 'Material complementario', '#anexos')
                                     +navTemaItem('referencias', 'Referencias bibliográficas', '#referencias')
@@ -49,6 +50,9 @@ html(lang="es")
                 include pages/tema-1.pug
             #tema-2
                 include pages/tema-2.pug
+
+            #tema-3
+                include pages/tema-3.pug
 
             #glosario
                 include pages/glosario.pug
